@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 # A good CDK inhibitor, a good inhibition of cell proliferation
 ## Usage
 1. Fork (copy) this repository by clicking the "Fork" button on the top right corner.
